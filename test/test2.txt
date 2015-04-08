@@ -1,1 +1,3 @@
 Dette er test-fil 2!
+
+Vi tester lige WinVi!

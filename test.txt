@@ -1,3 +1,5 @@
 Dette er en test-fil, så jeg kan lære GIT.
 
 Dette er en ny linie i min test-fil.
+
+Tester lidt mere!
