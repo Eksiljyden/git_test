@@ -1,0 +1,1 @@
+Dette er en fil for at teste forbindelsen til Github samt pull/push.
